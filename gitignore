@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# logs
+logs
+*.log
+
+# dotenv environment files
+.env
+
+# uploads
+server/uploads/
